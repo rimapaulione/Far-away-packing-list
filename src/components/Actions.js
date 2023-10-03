@@ -1,6 +1,6 @@
 function Actions({ onClearItems, sortBy, onSortBy, itemsList }) {
   const clearItemsHandler = () => {
-    if (!itemsList) return;
+    if (itemsList.length === 0) return;
     alert("Are you sure you want to delete all items?");
     onClearItems();
   };
