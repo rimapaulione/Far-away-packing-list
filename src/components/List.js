@@ -34,6 +34,7 @@ function List({ itemsList, onChangeChecked, onDeleteItem, onClearItems }) {
         ))}
       </ul>
       <Actions
+        itemsList={itemsList}
         onClearItems={onClearItems}
         sortBy={sortBy}
         onSortBy={sortByHandler}
