@@ -2,7 +2,7 @@
 
 <p>FarAway is a packing list web application designed to assist you in organizing your goods before your trip. With FarAway, you can easily add or remove items from your list, and you can also mark them as packed. The application provides you with information on the percentage of your items that are already packed, helping you stay organized for your journey. The app uses the Local Storage API to store the user's data in the browser. </p>
 
-<img src="/src/img/forkify.png" alt="far_away.png" >
+<img src="/src/img/far_away.png" alt="Far Away app" >
 
 ## [FarAway project preview](https://far-away-project.netlify.app/)
 
